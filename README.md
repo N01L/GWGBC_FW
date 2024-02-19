@@ -18,7 +18,7 @@ Overview of the device itself via my video on the v1.1 hardware:
 
 [![All Aftermarket Game Boy Color -- The Funnyplaying FPGA GBC (FP GBC HW v1.1)](https://img.youtube.com/vi/YM7wYx_SsRY/0.jpg)](https://www.youtube.com/watch?v=YM7wYx_SsRY)
 
----
+In the latest firmware 1.6 (with the official logo), you can now change the color palette in GBC mode for GB games. 
 
 I've made lots of feature requests of funnyplaying and they've implemented at least some. They're still working out the kinks. Here is a short list of things that *have already been requested and acknowledged by funnyplaying*:
 * LUTs for display accurate color correction (planned for future FW)
